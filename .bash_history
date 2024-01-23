@@ -33,3 +33,14 @@ cd ..
 cd Conditions
 vi script.sh
 sh script.sh
+cd Shell_scripting/Conditions
+vi script.sh
+sh script.sh
+cd ..
+git add .
+git config user.name "praveenraj"
+git config user.email "praveenrajs1002@gmail.com"
+git commit -m "Added task files"
+git remote add origin https://github.com/PraveenRaj106/Loops_-_Conditions.git
+git push origin master
+exit

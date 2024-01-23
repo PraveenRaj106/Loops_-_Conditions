@@ -25,6 +25,15 @@ else
 	statement3
 fi
 
+4.csse statement
+case Expression in
+case1) statemnet;;
+case2) statement;;
+.
+.
+.
+*) statement;;
+esac
 
 ----------Loops----------
 
