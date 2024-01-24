@@ -44,3 +44,90 @@ git commit -m "Added task files"
 git remote add origin https://github.com/PraveenRaj106/Loops_-_Conditions.git
 git push origin master
 exit
+ls
+cd Shell_scripting
+ls
+vi syntax.txt
+cd ..
+cd Shell_scripting
+git commit -am "Added case statement"
+git push origin master
+exit
+ls
+cd Shell_scripting
+ls
+mkdir Practice
+cd Practice
+vi Authentication.sh
+sh Authentication.sh
+vi Authentication.sh
+sh Authentication.sh
+vi Authentication.sh
+sh Authentication.sh
+vi Authentication.sh
+sh Authentication.sh
+vi Authentication.sh
+sh Authentication.sh
+vi Authentication.sh
+sh Authentication.sh
+vi Authentication.sh
+chmod +x Authentication.sh
+ls -l
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+vi Authentication.sh
+./Authentication.sh
+exit

@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1705994110,,"wq"
+|2,0,1706105798,,"wq"
 :q
-|2,0,1705929117,,"q"
+|2,0,1706083532,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,232 +25,268 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"i	CHAR	0
+	€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kb€kb-e
+|3,0,18,0,1,0,1706082452,"€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kr€kb€kb-e"
+""-	CHAR	0
+	=
+|3,1,36,0,1,0,1706105433,"="
 
 # File marks:
-'0  36  3  ~/Shell_scripting/syntax.txt
-|4,48,36,3,1705994110,"~/Shell_scripting/syntax.txt"
-'1  7  2  ~/Shell_scripting/Conditions/script.sh
-|4,49,7,2,1705929675,"~/Shell_scripting/Conditions/script.sh"
-'2  26  3  ~/Shell_scripting/Conditions/script.sh
-|4,50,26,3,1705929532,"~/Shell_scripting/Conditions/script.sh"
-'3  28  3  ~/Shell_scripting/Conditions/script.sh
-|4,51,28,3,1705929532,"~/Shell_scripting/Conditions/script.sh"
-'4  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,52,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
-'5  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,53,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
-'6  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,54,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
-'7  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,55,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
-'8  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,56,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
-'9  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,57,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
+'0  9  25  ~/Shell_scripting/Practice/Authentication.sh
+|4,48,9,25,1706105798,"~/Shell_scripting/Practice/Authentication.sh"
+'1  12  42  ~/Shell_scripting/Practice/Authentication.sh
+|4,49,12,42,1706105438,"~/Shell_scripting/Practice/Authentication.sh"
+'2  12  42  ~/Shell_scripting/Practice/Authentication.sh
+|4,50,12,42,1706105438,"~/Shell_scripting/Practice/Authentication.sh"
+'3  9  5  ~/Shell_scripting/Practice/Authentication.sh
+|4,51,9,5,1706105418,"~/Shell_scripting/Practice/Authentication.sh"
+'4  8  5  ~/Shell_scripting/Practice/Authentication.sh
+|4,52,8,5,1706105418,"~/Shell_scripting/Practice/Authentication.sh"
+'5  8  5  ~/Shell_scripting/Practice/Authentication.sh
+|4,53,8,5,1706105418,"~/Shell_scripting/Practice/Authentication.sh"
+'6  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,54,10,0,1706105371,"~/Shell_scripting/Practice/Authentication.sh"
+'7  9  26  ~/Shell_scripting/Practice/Authentication.sh
+|4,55,9,26,1706105371,"~/Shell_scripting/Practice/Authentication.sh"
+'8  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,56,10,0,1706105371,"~/Shell_scripting/Practice/Authentication.sh"
+'9  9  26  ~/Shell_scripting/Practice/Authentication.sh
+|4,57,9,26,1706105371,"~/Shell_scripting/Practice/Authentication.sh"
 
 # Jumplist (newest first):
--'  36  3  ~/Shell_scripting/syntax.txt
-|4,39,36,3,1705994110,"~/Shell_scripting/syntax.txt"
--'  49  72  ~/Shell_scripting/syntax.txt
-|4,39,49,72,1705993990,"~/Shell_scripting/syntax.txt"
--'  7  2  ~/Shell_scripting/Conditions/script.sh
-|4,39,7,2,1705929675,"~/Shell_scripting/Conditions/script.sh"
--'  7  2  ~/Shell_scripting/Conditions/script.sh
-|4,39,7,2,1705929675,"~/Shell_scripting/Conditions/script.sh"
--'  26  3  ~/Shell_scripting/Conditions/script.sh
-|4,39,26,3,1705929615,"~/Shell_scripting/Conditions/script.sh"
--'  26  3  ~/Shell_scripting/Conditions/script.sh
-|4,39,26,3,1705929615,"~/Shell_scripting/Conditions/script.sh"
--'  28  3  ~/Shell_scripting/Conditions/script.sh
-|4,39,28,3,1705929532,"~/Shell_scripting/Conditions/script.sh"
--'  28  3  ~/Shell_scripting/Conditions/script.sh
-|4,39,28,3,1705929532,"~/Shell_scripting/Conditions/script.sh"
--'  1  0  ~/Shell_scripting/Conditions/script.sh
-|4,39,1,0,1705929442,"~/Shell_scripting/Conditions/script.sh"
--'  1  0  ~/Shell_scripting/Conditions/script.sh
-|4,39,1,0,1705929442,"~/Shell_scripting/Conditions/script.sh"
--'  1  0  ~/Shell_scripting/Conditions/script.sh
-|4,39,1,0,1705929442,"~/Shell_scripting/Conditions/script.sh"
--'  1  0  ~/Shell_scripting/Conditions/script.sh
-|4,39,1,0,1705929442,"~/Shell_scripting/Conditions/script.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  25  16  ~/Shell_scripting/Loops/script2.sh
-|4,39,25,16,1705929290,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929126,"~/Shell_scripting/Loops/script2.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929117,"~/Shell_scripting/Loops/script1.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  1  0  ~/Shell_scripting/Loops/script2.sh
-|4,39,1,0,1705929110,"~/Shell_scripting/Loops/script2.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  16  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,16,1705929067,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
--'  17  0  ~/Shell_scripting/Loops/script1.sh
-|4,39,17,0,1705929041,"~/Shell_scripting/Loops/script1.sh"
+-'  9  25  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,9,25,1706105798,"~/Shell_scripting/Practice/Authentication.sh"
+-'  12  42  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,12,42,1706105751,"~/Shell_scripting/Practice/Authentication.sh"
+-'  12  42  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,12,42,1706105438,"~/Shell_scripting/Practice/Authentication.sh"
+-'  8  5  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,8,5,1706105426,"~/Shell_scripting/Practice/Authentication.sh"
+-'  8  5  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,8,5,1706105418,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706105378,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706105378,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706105378,"~/Shell_scripting/Practice/Authentication.sh"
+-'  9  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,9,0,1706105371,"~/Shell_scripting/Practice/Authentication.sh"
+-'  9  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,9,0,1706105371,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  34  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,34,1706105336,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  34  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,34,1706105336,"~/Shell_scripting/Practice/Authentication.sh"
+-'  12  34  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,12,34,1706105336,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  34  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,34,1706105336,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  34  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,34,1706105315,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  30  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,30,1706105282,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  46  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,46,1706105259,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105215,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105215,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105215,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105215,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105215,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105215,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105215,"~/Shell_scripting/Practice/Authentication.sh"
+-'  5  15  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,5,15,1706105162,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105150,"~/Shell_scripting/Practice/Authentication.sh"
+-'  4  14  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,4,14,1706105142,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  44  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,44,1706105016,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  44  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,44,1706105016,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  44  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,44,1706105004,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  32  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,32,1706104963,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  55  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,55,1706104437,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  20  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,20,1706104407,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  59  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,59,1706104286,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  46  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,46,1706084187,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  31  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,31,1706084049,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  62  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,62,1706084007,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  48  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,48,1706083842,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  56  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,56,1706083795,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  22  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,22,1706083635,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  63  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,63,1706083581,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083557,"~/Shell_scripting/Practice/Authentication.sh"
+-'  10  0  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,10,0,1706083532,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  23  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,23,1706083529,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  23  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,23,1706083528,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  56  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,56,1706083428,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  55  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,55,1706083210,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  16  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,16,1706083049,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  50  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,50,1706083007,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  48  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,48,1706082851,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  28  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,28,1706082806,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  5  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,5,1706082760,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  65  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,65,1706082718,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  58  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,58,1706082548,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  30  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,30,1706082499,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  30  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,30,1706082473,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  42  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,42,1706082275,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  4  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,4,1706082231,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  55  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,55,1706082173,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  5  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,5,1706082134,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  60  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,60,1706082105,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  28  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,28,1706082073,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  43  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,43,1706082012,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  25  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,25,1706081872,"~/Shell_scripting/Practice/Authentication.sh"
+-'  11  62  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,11,62,1706081548,"~/Shell_scripting/Practice/Authentication.sh"
+-'  14  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,14,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  13  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,13,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  14  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,14,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  13  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,13,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  14  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,14,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  13  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,13,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  13  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,13,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  13  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,13,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  13  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,13,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
+-'  13  2  ~/Shell_scripting/Practice/Authentication.sh
+|4,39,13,2,1706081462,"~/Shell_scripting/Practice/Authentication.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/Shell_scripting/Practice/Authentication.sh
+	*	1706105797	0
+	"	9	25
+	^	9	26
+	.	10	0
+	+	4	17
+	+	5	16
+	+	7	39
+	+	12	55
+	+	13	36
+	+	15	29
+	+	16	0
+	+	12	44
+	+	5	8
+	+	4	10
+	+	5	15
+	+	12	34
+	+	7	35
+	+	9	26
+	+	10	0
+	+	7	38
+	+	9	6
+	+	12	43
+	+	10	0
+	+	9	26
+	+	9	16
+	+	7	26
+	+	8	12
+	+	10	0
 
 > ~/Shell_scripting/syntax.txt
 	*	1705994108	0
